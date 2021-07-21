@@ -1,1 +1,2 @@
 test
+test added to git merge
