@@ -1,1 +1,3 @@
 Change made by developer 2 adn 1
+
+change made to under stand .git
